@@ -2,4 +2,5 @@ fastapi
 uvicorn
 requests
 pytest
+httpx
 # tkinter já está incluso na maioria dos Python installs
